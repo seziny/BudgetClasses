@@ -1,5 +1,0 @@
-C:\Users\Damien\Files\Programmes\Visual Studio 2013\Projects\BudgetClasses\BudgetClasses\bin\Debug\BudgetClasses.exe
-C:\Users\Damien\Files\Programmes\Visual Studio 2013\Projects\BudgetClasses\BudgetClasses\bin\Debug\BudgetClasses.pdb
-C:\Users\Damien\Files\Programmes\Visual Studio 2013\Projects\BudgetClasses\BudgetClasses\obj\x86\Debug\BudgetClasses.csprojResolveAssemblyReference.cache
-C:\Users\Damien\Files\Programmes\Visual Studio 2013\Projects\BudgetClasses\BudgetClasses\obj\x86\Debug\BudgetClasses.exe
-C:\Users\Damien\Files\Programmes\Visual Studio 2013\Projects\BudgetClasses\BudgetClasses\obj\x86\Debug\BudgetClasses.pdb
