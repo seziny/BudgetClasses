@@ -7,6 +7,7 @@ namespace BudgetClasses
 {
     // A zero-sum list of withdrawals or deposits to various accounts, 
     // and the associated import data.
+	//just a little addition to check what happens
     class Transaction
     {
         DateTime Time;
